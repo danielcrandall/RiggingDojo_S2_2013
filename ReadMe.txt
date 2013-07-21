@@ -1,0 +1,1 @@
+This depot is being used as an example project for session 2 2013.
